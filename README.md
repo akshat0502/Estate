@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 <h1>E-State Website Using React</h1>
 <p>This guide explains how to create and run a React-based frontend for an E-State (Real Estate) Website.</p>
+<h2>Steps to Run the React App:</h2>
