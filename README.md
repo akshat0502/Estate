@@ -28,4 +28,14 @@ Currently, two official plugins are available:
                 <pre><code>npm start</code></pre>
                 <p>This will open the app in your default web browser at <code>http://localhost:3000</code>.</p>
             </li>
+  <li>
+                <b>Build the E-State Website:</b>
+                <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
+                <ul>
+                    <li>Property Listings</li>
+                    <li>Search and Filter Functionality</li>
+                    <li>Individual Property Details</li>
+                    <li>Contact or Inquiry Forms</li>
+                </ul>
+            </li>
 </ol>
