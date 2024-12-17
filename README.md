@@ -59,4 +59,5 @@ Currently, two official plugins are available:
 <h2>Tips:</h2>
 <ul>
   <li>Use a component library like <a href="https://mui.com/" target="_blank">Material-UI</a> or <a href="https://ant.design/" target="_blank">Ant Design</a> for pre-designed UI components.</li>
+  <li>Integrate a map API (e.g., Google Maps) to display property locations.</li>
 </ul>
