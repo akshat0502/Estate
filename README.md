@@ -46,3 +46,13 @@ Currently, two official plugins are available:
             </li>
 </ol>
 <h2>Folder Structure:</h2>
+<pre><code>
+  estate-website/
+├── public/       // Static files (e.g., index.html)
+├── src/          // React components, styles, and logic
+│   ├── components/  // Reusable UI components
+│   ├── pages/        // Pages like Home, PropertyDetails, About
+│   ├── App.js        // Main app component
+│   ├── index.js      // Entry point
+├── package.json  // Project dependencies and scripts
+</code></pre>
