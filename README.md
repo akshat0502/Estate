@@ -45,3 +45,4 @@ Currently, two official plugins are available:
                 <p>This creates an optimized production build in the <code>build</code> folder.</p>
             </li>
 </ol>
+<h2>Folder Structure:</h2>
