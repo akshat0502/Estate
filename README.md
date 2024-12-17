@@ -56,3 +56,4 @@ Currently, two official plugins are available:
 │   ├── index.js      // Entry point
 ├── package.json  // Project dependencies and scripts
 </code></pre>
+<h2>Tips:</h2>
