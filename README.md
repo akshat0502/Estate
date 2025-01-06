@@ -2,7 +2,7 @@
 <p><b>Estate</b> is a React.js-powered web application designed to simplify real estate transactions and help users find their perfect property. Its modern, responsive interface ensures an effortless browsing experience across all devices.</p>
 <p>Users can explore a diverse range of properties, including homes, apartments, and commercial spaces, with detailed descriptions, high-quality images, and virtual tours. Advanced search filters enable users to narrow down options based on location, budget, property type, and amenities.</p>
 <p>The platform offers secure user authentication, contact options for property inquiries, and saved searches for convenience</p>
-<p>For realtors, DreamNest provides a dashboard to list properties, manage inquiries, and track leads, making it a comprehensive real estate solution.</p>
+<p>For realtors, <b>Estate</b> provides a dashboard to list properties, manage inquiries, and track leads, making it a comprehensive real estate solution.</p>
 
 <hr />
 # React + Vite
