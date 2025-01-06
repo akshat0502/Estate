@@ -1,5 +1,7 @@
 <h1><a href="https://estate-kappa-nine.vercel.app/">Estate</a></h1>
+<p>DreamNest is a React.js-powered web application designed to simplify real estate transactions and help users find their perfect property. Its modern, responsive interface ensures an effortless browsing experience across all devices.</p>
 
+<hr />
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
